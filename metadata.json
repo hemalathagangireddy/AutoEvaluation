@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AutoEval - AI Exam Answer Evaluator",
+  "description": "An advanced NLP-powered system that automatically evaluates descriptive student answers against model answers using semantic analysis, keyword coverage, and relevance metrics.",
+  "requestFramePermissions": []
+}
